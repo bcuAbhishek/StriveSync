@@ -1,0 +1,352 @@
+name,category,serving_size,calories,total_fat,saturated_fat,cholesterol,sodium,carbohydrates,fiber,sugar,protein
+milk,Dairy,100g,51.3,1.9,1.2,8,52,4.9,0,0,3.5
+cheese,Dairy,100g,393.9,33,18.9,100,661,3.2,0,0.5,22.7
+yogurt,Dairy,100g,64.2,1.6,1,5,69,7.2,0,7.1,5.3
+butter,Dairy,100g,721.5,79.6,51.1,215,637,0.1,0,0.1,0.8
+cream,Dairy,100g,347.4,35.6,22.9,111,27,2.8,0,2.9,2.9
+cottage cheese,Dairy,100g,98.3,4.3,1.7,16,370,3.4,0,2.7,11.2
+sour cream,Dairy,100g,192.5,19.6,10.1,58,30,4.7,0,3.4,2.4
+mozzarella,Dairy,100g,295.5,22.6,13.1,79,629,2.2,0,1,22.1
+feta,Dairy,100g,260.8,21.1,14.8,88,899,4.1,0,4.1,14.2
+cream cheese,Dairy,100g,342,34,20.1,100,309,5.5,0,3.7,6.2
+ice cream,Dairy,100g,207.1,11,6.8,44,78,23.6,0.7,21.3,3.5
+kefir,Dairy,100g,45.9,0.9,0.6,4,186,4.8,0,4.7,4.5
+parmesan,Dairy,100g,419.3,27.6,15.4,85,1811,14.1,0,0,28.6
+ricotta,Dairy,100g,134,8.1,4.9,31,100,5.1,0,0.3,11.3
+blue cheese,Dairy,100g,346.9,28.9,18.5,76,1156,2.3,0,0.5,21.6
+gouda,Dairy,100g,345.6,27.4,17.5,111,830,2.3,0,2.2,25.1
+cheddar,Dairy,100g,415.6,33.9,18.8,97,640,3.1,0,0.5,22.8
+swiss cheese,Dairy,100g,396,31.4,18.3,91,183,1.4,0,0,26.9
+provolone,Dairy,100g,352.5,26.3,17.1,68,875,2.1,0,0.6,25.7
+brie,Dairy,100g,326.3,27.2,17.5,99,633,0.5,0,0.5,20.8
+rice,Carbohydrate,100g,127.4,0.3,0.1,0,1,28.4,0.4,0.1,2.7
+pasta,Carbohydrate,100g,156,0.9,0.2,0,1,31.3,1.8,0.6,5.7
+bread,Carbohydrate,100g,261.6,3.4,0.7,0,495,50.2,2.7,5.7,8.8
+potato,Carbohydrate,100g,92.7,0.1,0,0,10,21,2.2,1.2,2.5
+sweet potato,Carbohydrate,100g,77.5,0.1,0,0,26,17.5,2.5,5.8,1.4
+oats,Carbohydrate,100g,386.8,6.6,1.1,0,5,68,10.2,1,13.3
+quinoa,Carbohydrate,100g,121.8,1.9,0.2,0,6,21,2.8,0.9,4.4
+corn,Carbohydrate,100g,93.9,1.5,0.2,0,1,21,2.4,4.6,3.4
+barley,Carbohydrate,100g,124.8,0.4,0.1,0,3,28.6,3.9,0.3,2.2
+wheat,Carbohydrate,100g,333.4,1.9,0.3,0,1,69.2,12.3,0.4,15.4
+buckwheat,Carbohydrate,100g,92.5,0.6,0.1,0,3,20.1,2.7,0.9,3.4
+millet,Carbohydrate,100g,122.2,1,0.2,0,1,23.6,1.3,0.1,3.5
+pita bread,Carbohydrate,100g,281.1,1.2,0.2,0,540,55.4,2.2,1.3,9.1
+tortilla,Carbohydrate,100g,316,7.1,1.7,0,479,55.4,3.3,0,8.7
+couscous,Carbohydrate,100g,114.1,0.2,0,0,5,23.4,1.4,0.1,3.8
+noodles,Carbohydrate,100g,161.8,0.9,0.2,0,0,31.2,1.8,0.6,5.8
+crackers,Carbohydrate,100g,504.4,26.8,5.5,0,726,61.2,2.2,8.3,6.8
+popcorn,Carbohydrate,100g,549.3,30.7,14.5,0,768,57,9.8,0.3,8.5
+muffins,Carbohydrate,100g,375.4,15.8,2.9,29,332,52.1,1.1,31.4,4.5
+banana,Carbohydrate,100g,89.4,0.3,0.1,0,1,23.2,2.6,12.3,1.1
+apple,Carbohydrate,100g,53,0.2,0,0,1,14.1,2.4,10.3,0.3
+orange,Carbohydrate,100g,50.4,0.1,0,0,1,12.4,2.2,8.4,0.9
+grapes,Carbohydrate,100g,69.6,0.2,0.1,0,2,18.1,0.9,15.5,0.7
+mango,Carbohydrate,100g,61.6,0.4,0.1,0,0,14.8,1.6,13.6,0.8
+peach,Carbohydrate,100g,39.9,0.3,0,0,0,9.7,1.5,8.5,0.9
+pear,Carbohydrate,100g,56.7,0.1,0,0,1,14.9,3.1,9.8,0.4
+kiwi,Carbohydrate,100g,59.5,0.5,0,0,3,14.9,3,9.1,1.1
+watermelon,Carbohydrate,100g,30.3,0.1,0,0,0,7.4,0.4,6.2,0.6
+strawberry,Carbohydrate,100g,31.9,0.3,0,0,0,7.7,2,4.9,0.7
+blueberry,Carbohydrate,100g,56.2,0,0,0,0,14.8,2.2,10.4,0.7
+raspberry,Carbohydrate,100g,52.7,0.5,0,0,1,11.9,6.5,4.5,1
+cherry,Carbohydrate,100g,63.8,0.2,0,0,0,15.9,2.1,12.8,1.1
+fig,Carbohydrate,100g,76.1,0.3,0.1,0,0,19.4,2.9,16.4,0.8
+plum,Carbohydrate,100g,46.2,0.3,0,0,0,11.4,1.4,9.9,0.7
+date,Carbohydrate,100g,288.3,0.4,0,0,1,75.4,8.2,63.2,2.4
+apricot,Carbohydrate,100g,48.3,0.4,0,0,0,11.1,2,9.3,1.4
+carrot,Carbohydrate,100g,34,0.2,0,0,57,8.3,3,3.4,0.8
+beet,Carbohydrate,100g,43.1,0.2,0,0,76,10.1,2,7.9,1.7
+turnip,Carbohydrate,100g,21.5,0.1,0,0,16,5,2,3,0.7
+parsnip,Carbohydrate,100g,72.5,0.3,0.1,0,10,17.1,3.6,4.8,1.3
+onion,Carbohydrate,100g,44.7,0.2,0,0,2,10.1,1.4,4.7,1.4
+pumpkin,Carbohydrate,100g,20.5,0.1,0,0,0,4.9,1.1,2.1,0.7
+peas,Carbohydrate,100g,82.4,0.2,0,0,3,15.9,5.4,5.9,5.4
+green beans,Carbohydrate,100g,34.8,0.3,0.1,0,0,7.7,3.2,3.6,1.9
+zucchini,Carbohydrate,100g,15.4,0.4,0.1,0,2,2.7,1,1.7,1.1
+spinach,Carbohydrate,100g,23.3,0.3,0,0,69,3.8,2.4,0.4,2.9
+broccoli,Carbohydrate,100g,35,0.4,0.1,0,41,7.3,3.3,1.4,2.4
+cauliflower,Carbohydrate,100g,22.4,0.5,0.1,0,14,4.1,2.3,2.1,1.8
+bell pepper,Carbohydrate,100g,27.6,0.2,0,0,2,6.8,1.2,3.2,0.9
+eggplant,Carbohydrate,100g,34.7,0.2,0,0,0,8.7,2.5,3.2,0.8
+asparagus,Carbohydrate,100g,21.4,0.2,0.1,0,14,4.2,2,1.3,2.4
+tomato,Carbohydrate,100g,18.2,0.2,0,0,4,3.9,1.2,2.6,0.9
+cabbage,Carbohydrate,100g,23.4,0.1,0,0,7,5.5,1.9,2.8,1.3
+lettuce,Carbohydrate,100g,17,0.3,0,0,7,3.3,2.1,1.2,1.2
+olive oil,Fat,100g,869.2,101.2,13.9,0,1,0,0,0,0
+butter,Fat,100g,721.5,79.6,51.1,215,637,0.1,0,0.1,0.8
+coconut oil,Fat,100g,881.6,98.8,83.1,0,0,0,0,0,0
+canola oil,Fat,100g,886.3,98.2,7.3,0,0,0,0,0,0
+avocado oil,Fat,100g,910.4,100.3,11.7,0,0,0,0,0,0
+almond oil,Fat,100g,890.8,98.1,8.2,0,0,0,0,0,0
+peanut butter,Fat,100g,579.7,49.6,9.6,0,477,24,5.6,6.5,22.1
+mayonnaise,Fat,100g,689.3,74.7,11.8,41,626,0.6,0,0.6,0.9
+granulated sugar,Sugar,100g,394.9,0,0,0,1,99.1,0,99.7,0
+brown sugar,Sugar,100g,381.1,0,0,0,27,98.8,0,97.8,0
+honey,Fat,100g,302.9,0,0,0,3,83,0.2,82.6,0.3
+maple syrup,Fat,100g,267.5,0,0,0,11,67.8,0,59.9,0.1
+corn syrup,Fat,100g,279.8,0.2,0,0,61,75.8,0,76.3,0
+agave nectar,Fat,100g,313.1,0.4,0,0,4,76.3,0.1,67.6,0.1
+coconut sugar,Sugar,100g,381.6,0,0,0,1,98.2,0,99.3,0
+sugar cane,Sugar,100g,384.3,0,0,0,1,100.7,0,99.5,0
+corn syrup,Fat,100g,279.8,0.2,0,0,61,75.8,0,76.3,0
+powdered sugar,Sugar,100g,391.1,0,0,0,2,98.1,0,97.1,0
+sweetened condensed milk,Fat,100g,317.1,8.8,5.5,34,128,54.8,0,54.5,7.9
+margarine,Fat,100g,700.5,80.7,15.4,0,1,0.7,0,0,0.1
+apple,Fruit,100g,53,0.2,0,0,1,14.1,2.4,10.3,0.3
+banana,Fruit,100g,89.4,0.3,0.1,0,1,23.2,2.6,12.3,1.1
+orange,Fruit,100g,50.4,0.1,0,0,1,12.4,2.2,8.4,0.9
+grape,Fruit,100g,67.4,0.2,0.1,0,1,18.3,0.9,15.6,0.7
+watermelon,Fruit,100g,30.3,0.1,0,0,0,7.4,0.4,6.2,0.6
+pineapple,Fruit,100g,50.8,0.1,0,0,0,13,1.4,9.9,0.5
+kiwi,Fruit,100g,59.5,0.5,0,0,3,14.9,3,9.1,1.1
+strawberry,Fruit,100g,31.9,0.3,0,0,0,7.7,2,4.9,0.7
+blueberry,Fruit,100g,56.2,0,0,0,0,14.8,2.2,10.4,0.7
+raspberry,Fruit,100g,52.7,0.5,0,0,1,11.9,6.5,4.5,1
+peach,Fruit,100g,39.9,0.3,0,0,0,9.7,1.5,8.5,0.9
+plum,Fruit,100g,46.2,0.3,0,0,0,11.4,1.4,9.9,0.7
+apricot,Fruit,100g,48.3,0.4,0,0,0,11.1,2,9.3,1.4
+cherry,Fruit,100g,63.8,0.2,0,0,0,15.9,2.1,12.8,1.1
+mango,Fruit,100g,61.6,0.4,0.1,0,0,14.8,1.6,13.6,0.8
+papaya,Fruit,100g,43,0.3,0.1,0,7,10.8,1.7,7.8,0.5
+pomegranate,Fruit,100g,84.2,1.2,0.1,0,2,18.5,4.1,13.7,1.7
+coconut,Fruit,100g,455.3,28.3,26.3,0,288,52.3,9.9,36.9,3.2
+lemon,Fruit,100g,29,0.3,0,0,2,9.3,2.7,2.5,1.1
+lime,Fruit,100g,29.6,0.2,0,0,2,10.6,2.9,1.7,0.7
+tangerine,Fruit,100g,51.5,0.3,0,0,1,13.3,1.8,10.6,0.8
+nectarine,Fruit,100g,45.2,0.3,0,0,0,10.5,1.7,7.8,1
+fig,Fruit,100g,76.1,0.3,0.1,0,0,19.4,2.9,16.4,0.8
+date,Fruit,100g,288.3,0.4,0,0,1,75.4,8.2,63.2,2.4
+guava,Fruit,100g,67.7,0.9,0.3,0,1,14.4,5.5,8.9,2.5
+jackfruit,Fruit,100g,94.9,0.6,0.2,0,2,23.4,1.5,19,1.7
+dragonfruit,Fruit,100g,31.3,0.3,0,0,3,7.3,1.5,4.5,0.6
+cantaloupe,Fruit,100g,33.8,0.2,0,0,15,8.1,0.9,7.8,0.8
+honeydew,Fruit,100g,36.5,0.1,0,0,17,9,0.8,8.1,0.5
+persimmon,Fruit,100g,69.4,0.2,0,0,0,18.8,3.6,12.6,0.6
+cranberry,Fruit,100g,45.4,0.1,0,0,1,12.2,3.6,4.3,0.5
+currant,Fruit,100g,288.7,0.3,0,0,7,73.7,6.8,67.9,4.1
+blackberry,Fruit,100g,44,0.5,0,0,1,9.5,5.2,5,1.4
+clementine,Fruit,100g,47,0.1,0,0,0,11.8,1.7,9.2,0.8
+blood orange,Fruit,100g,49.6,0.2,0,0,1,12.8,2.2,8.6,0.9
+soursop,Fruit,100g,67.4,0.3,0,0,14,16.9,3.3,13.5,1
+starfruit,Fruit,100g,30.9,0.3,0,0,1,6.8,2.8,4,1
+rhubarb,Fruit,100g,20.5,0.2,0.1,0,3,4.5,1.8,1.1,0.9
+gooseberry,Fruit,100g,44.1,0.6,0,0,0,10.1,4.2,0,0.9
+mulberry,Fruit,100g,42.8,0.4,0,0,9,9.8,1.7,8.2,1.4
+lingonberry,Fruit,100g,58.5,0.3,0,0,1,14.3,2.4,10,0.7
+quince,Fruit,100g,58,0.1,0,0,3,15,1.9,0,0.4
+longan,Fruit,100g,58.8,0,0,0,0,14.8,1.2,0,1.3
+rambutan,Fruit,100g,81.8,0.2,0,0,10,21.1,0.9,0,0.7
+tamarind,Fruit,100g,232.2,0.6,0.3,0,27,63,5,39.1,2.8
+cherimoya,Fruit,100g,77,0.7,0.2,0,6,17.8,2.9,12.8,1.6
+ackee,Fruit,100g,181.3,18.7,1.8,0,3,3.9,1.9,0.7,4.3
+rose,Fruit,100g,85.4,0,0,0,5,3.8,0,3.8,0.4
+cherry,Fruit,100g,63.8,0.2,0,0,0,15.9,2.1,12.8,1.1
+pummelo,Fruit,100g,37.5,0,0,0,1,9.8,1,0,0.8
+jackfruit,Fruit,100g,94.9,0.6,0.2,0,2,23.4,1.5,19,1.7
+lime,Fruit,100g,29.6,0.2,0,0,2,10.6,2.9,1.7,0.7
+fruit,Fruit,100g,60.8,0.3,0,0,1,15.3,2,10.1,0.8
+soursop,Fruit,100g,67.4,0.3,0,0,14,16.9,3.3,13.5,1
+sapodilla,Fruit,100g,81.2,1.1,0.2,0,12,19.7,5.2,0,0.4
+pear,Fruit,100g,56.7,0.1,0,0,1,14.9,3.1,9.8,0.4
+jicama,Fruit,100g,38.2,0.1,0,0,3,8.9,4.9,1.8,0.7
+orange,Fruit,100g,50.4,0.1,0,0,1,12.4,2.2,8.4,0.9
+lime,Fruit,100g,29.6,0.2,0,0,2,10.6,2.9,1.7,0.7
+bitter melon,Fruit,100g,19.4,0.2,0,0,6,4.4,2,1.9,0.8
+dragonfruit,Fruit,100g,31.3,0.3,0,0,3,7.3,1.5,4.5,0.6
+jackfruit,Fruit,100g,94.9,0.6,0.2,0,2,23.4,1.5,19,1.7
+persimmon,Fruit,100g,69.4,0.2,0,0,0,18.8,3.6,12.6,0.6
+orange,Fruit,100g,50.4,0.1,0,0,1,12.4,2.2,8.4,0.9
+berry,Fruit,100g,51,0.5,0,0,1,12,6.4,4.5,1
+cabbage,Fruit,100g,23.4,0.1,0,0,7,5.5,1.9,2.8,1.3
+rambutan,Fruit,100g,81.8,0.2,0,0,10,21.1,0.9,0,0.7
+fruit,Fruit,100g,60.8,0.3,0,0,1,15.3,2,10.1,0.8
+melon,Fruit,100g,33.6,0.2,0.1,0,16,8.3,0.9,7.8,0.8
+hazelnut,Fruit,100g,656.2,61.5,4.5,0,0,17.8,9.4,4.9,14.9
+pizza,Junk Food,100g,262.9,9.8,4.5,16,587,32.9,2.3,3.6,11.4
+burger,Junk Food,100g,237.7,11.5,4.7,53,356,18.1,0,0,15.2
+fries,Junk Food,100g,317.7,14.8,2.3,0,212,41.1,3.8,0.3,3.4
+chocolate,Junk Food,100g,540.2,29.4,18.6,23,78,58.9,3.4,51.4,7.8
+ice cream,Junk Food,100g,207.1,11,6.8,44,78,23.6,0.7,21.3,3.5
+donut,Junk Food,100g,415.9,22.3,9.5,30,312,47,2.1,22.7,6.1
+taco,Junk Food,100g,205.3,9.6,4.2,24,569,20,2.9,1.6,9.2
+soda,Junk Food,100g,41.9,0.2,0,0,2,10.2,0,10,0
+candy,Junk Food,100g,400.4,0.2,0,0,37,98.2,0,62.4,0
+hot dog,Junk Food,100g,330.3,29.6,11.6,57,845,2.7,0,1.3,11.6
+fried chicken,Junk Food,100g,261.5,14.6,4.1,90,85,3.1,0.1,0,28.7
+nachos,Junk Food,100g,225.2,17.3,7.1,52,315,4.8,0.7,1.8,12.2
+pancakes,Junk Food,100g,230.7,9.6,2.1,59,437,28.8,0,0,6.4
+cheeseburger,Junk Food,100g,275.8,14.3,7.1,48,591,19.5,1.2,3.6,15.3
+mozzarella sticks,Junk Food,100g,329.4,18.4,6.8,36,863,25.5,2,2.3,14.6
+potato chips,Junk Food,100g,541,33.9,3.4,0,526,54.1,3.2,0.3,6.4
+cinnamon rolls,Junk Food,100g,334.6,11.1,3.2,0,774,54.3,1.4,21.5,4.3
+bagels,Junk Food,100g,265.4,1.3,0.4,0,428,51.9,1.6,8.4,10.5
+chicken nuggets,Junk Food,100g,313.4,20.1,3.6,54,584,15,0.9,0.1,16.1
+fish and chips,Junk Food,100g,136.5,5,0.6,29,275,13.6,0.9,0.4,8.4
+steak,Junk Food,100g,273.4,18.8,7.3,95,52,0,0,0,26
+popcorn,Junk Food,100g,549.3,30.7,14.5,0,768,57,9.8,0.3,8.5
+wings,Junk Food,100g,330.8,24.4,8.6,80,394,10,0.4,0.2,17
+chocolate cake,Junk Food,100g,391.8,19.9,5.9,22,348,52.5,2.2,39.6,3.5
+cupcakes,Junk Food,100g,379.2,20.3,6,21,341,52.2,2.2,40,3.5
+french toast,Junk Food,100g,226,10.8,2.7,116,481,25.2,0,0,7.6
+cheese fries,Junk Food,100g,287.5,21.2,11.7,58,402,8.5,0.4,0.3,13.6
+calzone,Junk Food,100g,308.9,21.5,8.8,56,697,12.9,0.7,0.7,15.7
+quesadilla,Junk Food,100g,377.1,23.2,11.6,51,706,23.9,1.7,2.2,15.8
+pasta,Junk Food,100g,156,0.9,0.2,0,1,31.3,1.8,0.6,5.7
+macaroni and cheese,Junk Food,100g,185.2,8.3,1.8,3,340,24.1,1.2,4.3,4.9
+cheesecake,Junk Food,100g,314.5,22.6,9.9,55,440,25.5,0.4,21.8,5.5
+breakfast burrito,Junk Food,100g,164.6,7.4,3.2,60,384,18.5,0.7,0.4,7.4
+cereal,Junk Food,100g,386,6.8,1.5,0,495,71.9,9.2,4.3,12.2
+pudding,Junk Food,100g,132.8,3.8,1,0,144,22.7,0,17.1,1.5
+milkshake,Junk Food,100g,120.4,2.7,1.7,11,109,21.4,0.3,20.7,3
+smoothie,Junk Food,100g,79.7,0.8,0.5,2,29,16.7,1.4,11.7,2.7
+biscotti,Junk Food,100g,380.4,14.7,1.5,63,187,58.7,1.4,22.8,6.9
+crepes,Junk Food,100g,166.8,8.2,4.5,103,183,16.3,0.5,0.1,5.9
+churros,Junk Food,100g,404.3,29.9,1.9,0,171,31.8,0.7,18.5,1.9
+samosas,Junk Food,100g,262.6,17.3,7.1,27,421,24.4,2.1,1.6,3.5
+empanadas,Junk Food,100g,337,18.3,5.1,26,436,31.4,2,1.9,11.2
+spaghetti,Junk Food,100g,154.1,0.6,0.1,0,4,30.6,1.3,1.1,5.3
+lasagna,Junk Food,100g,157.7,8.5,4,42,407,9.2,1,2.9,11.4
+chili cheese fries,Junk Food,100g,215.1,12.1,3.8,16,374,21.2,1.7,0.6,5.8
+ribs,Junk Food,100g,361.3,30.9,9.2,103,91,0,0,0,21.1
+bacon,Junk Food,100g,466.4,34.9,12,98,1674,1.7,0,0,34
+sweet and sour chicken,Junk Food,100g,247.7,12.9,1.9,26,250,23.5,1,11.4,10.2
+sloppy joes,Junk Food,100g,207.1,7.8,2.8,34,652,19.5,1.3,6.6,14
+barbecue chicken,Junk Food,100g,167.3,4.9,1.3,53,351,11.9,0.3,9.8,17.9
+pita bread,Junk Food,100g,281.1,1.2,0.2,0,540,55.4,2.2,1.3,9.1
+egg rolls,Junk Food,100g,250.3,12.1,2.1,15,475,26.8,2.6,0,8.2
+tater tots,Junk Food,100g,192.3,8.9,1.7,0,470,26.9,2,0.3,2.1
+sweet potato fries,Junk Food,100g,284.6,20.2,1.6,0,193,23.3,3.1,5.8,1.5
+corn dogs,Junk Food,100g,270.4,11,3,45,554,31.7,0,0,9.5
+chicken fried steak,Junk Food,100g,174.3,9.5,3,39,194,10.9,0.3,0.7,12.1
+jambalaya,Junk Food,100g,155.8,7.4,1.9,30,517,14.6,0.4,0.7,7.1
+stir fry,Junk Food,100g,169.6,11.1,2.8,37,287,4.8,1.7,1.7,12.9
+pad thai,Junk Food,100g,170.7,9,2.2,82,261,9.2,0.9,3.6,13
+fettuccine alfredo,Junk Food,100g,254.8,15.8,9.4,43,188,22.9,1.3,0.8,6.1
+sushi,Junk Food,100g,130.9,6.9,1.1,8,263,13.9,1.4,3.3,4.2
+burrito bowl,Junk Food,100g,116.7,3.9,1.8,21,224,12.3,1.4,0.9,7.6
+shawarma,Junk Food,100g,195.9,6.2,2,51,152,14.9,0.7,0.8,20
+gyros,Junk Food,100g,184.4,10.1,4,41,479,10.9,0.9,1.7,12.2
+pork belly,Junk Food,100g,531.4,52.8,19.2,72,32,0,0,0,9.4
+chicken wings,Junk Food,100g,261.2,16.7,4.9,140,96,0,0,0,24
+beef,Junk Food,100g,291.9,19.7,7.8,87,63,0,0,0,26.6
+pork chops,Junk Food,100g,208.9,11,3.5,82,55,0,0,0,25.9
+chicken fried rice,Junk Food,100g,159.9,6.8,1,60,201,13.7,0.5,0.5,10.3
+fried rice,Junk Food,100g,174.5,2.9,0.5,17,393,32.4,1.1,0.6,4
+chicken teriyaki,Junk Food,100g,153.6,5.5,1.5,61,737,2.8,0,2.5,21.5
+meatloaf,Junk Food,100g,179.5,10.1,3.5,66,459,7.8,0.7,3.3,14.4
+cornbread,Junk Food,100g,263.8,7.2,1.6,39,668,43.2,0,0,6.7
+pulled pork,Junk Food,100g,173,4.5,1.4,35,658,18.4,1.2,15.3,13.2
+pasta primavera,Junk Food,100g,106.9,2.9,1.6,6,287,16,1.4,1.6,4.3
+rice pudding,Junk Food,100g,111.1,2.2,1.2,11,96,18.6,0.3,11.7,3.3
+zucchini fries,Junk Food,100g,188.1,10.2,3.5,48,591,15.1,1.2,2.3,8.4
+onion rings,Junk Food,100g,353.2,19.6,3.4,0,703,40.8,2.6,4.7,4.8
+potato skins,Junk Food,100g,331.6,25.8,8.6,44,622,15.4,2.5,0.7,12.8
+fritters,Junk Food,100g,264,18.7,3,7,12,19.5,2.8,3.9,4.2
+jambalaya,Junk Food,100g,155.8,7.4,1.9,30,517,14.6,0.4,0.7,7.1
+cheese curds,Junk Food,100g,397.4,33.8,18.7,97,643,3.1,0,0.5,22.9
+vegetable tempura,Junk Food,100g,75.9,2.9,0.3,9,8,10.6,1.8,2.3,2.2
+prawn crackers,Junk Food,100g,437.5,17.5,5.3,2,574,59.6,5.7,21.2,7.1
+hot wings,Junk Food,100g,332,24.5,8.6,80,397,9.9,0.4,0.2,16.8
+beef brisket,Junk Food,100g,323.5,24.9,9.4,94,65,0,0,0,25.7
+fish tacos,Junk Food,100g,196,9.5,3.3,35,266,14.8,1.2,1.1,13.3
+tuna salad,Junk Food,100g,181.9,9.1,1.5,13,406,9.3,0,0,16.1
+caesar salad,Junk Food,100g,160.4,13.1,2.7,11,376,7.6,1.9,1.6,3.4
+pasta salad,Junk Food,100g,204.4,12.3,2.9,11,355,17.2,1.5,1.5,6
+stuffed peppers,Junk Food,100g,109.6,5.4,2.5,22,106,8,1,1.6,7.2
+samosa,Junk Food,100g,260.8,17.4,7.1,27,426,24.2,2.1,1.6,3.5
+chili,Junk Food,100g,118.7,7.2,2.3,20,414,6.2,0.5,1.1,7.5
+goulash,Junk Food,100g,106.5,3.9,1.4,17,444,10.3,1.6,1.8,7.6
+bangers,Junk Food,100g,346,27.7,10.1,57,744,4.3,0.1,1.9,19.2
+fish,Junk Food,100g,129.2,2.7,0.9,56,57,0,0,0,26
+ratatouille,Junk Food,100g,58.3,3.3,0.5,0,37,7.4,2.1,2.7,1
+potato salad,Junk Food,100g,142.9,8.1,1.4,67,539,11.3,1.3,0,2.7
+tuna melt,Junk Food,100g,228.9,10.8,3.4,19,460,18.2,0.6,1.4,15
+pasta,Junk Food,100g,156,0.9,0.2,0,1,31.3,1.8,0.6,5.7
+lamb,Junk Food,100g,301.2,20.5,8.8,98,71,0,0,0,24.4
+banana split,Junk Food,100g,192.5,9.2,3.5,16,38,26.1,1.9,15.9,3.1
+crabcakes,Junk Food,100g,173,11.2,1.7,75,601,7.1,0.5,1.4,11.1
+brisket,Junk Food,100g,289.3,18.3,7.3,107,47,0,0,0,29.1
+chicken curry,Junk Food,100g,106.3,4.6,0.6,31,30,3.2,0.6,0.9,12.1
+sweet potato casserole,Junk Food,100g,240.6,13.8,5,51,177,27.1,2,19.5,3
+cabbage rolls,Junk Food,100g,88.5,3,1.2,11,138,11.4,1.6,2.9,4.1
+taco salad,Junk Food,100g,153.2,8.5,3,17,392,14.2,3.5,1,7
+chicken breast,Protein,100g,166.2,3.5,1,85,72,0,0,0,31
+salmon,Protein,100g,208.7,12.1,2.4,63,61,0,0,0,22
+tofu,Protein,100g,81.7,5.2,0.9,0,3,1.2,1,0.7,10
+egg,Protein,100g,147,9.7,3.1,371,139,0.7,0,0.4,12.5
+greek yogurt,Protein,100g,60.7,0.4,0.1,5,36,3.6,0,3.2,10.2
+quinoa,Protein,100g,121.8,1.9,0.2,0,6,21,2.8,0.9,4.4
+lentils,Protein,100g,116.2,0.4,0.1,0,239,19.7,8,1.8,8.9
+chickpeas,Protein,100g,166.1,2.6,0.3,0,238,27.8,7.5,4.8,8.9
+black beans,Protein,100g,132.5,0.5,0.1,0,1,23.9,8.8,0.3,8.8
+almonds,Protein,100g,603.7,52.7,3.9,0,490,21.3,11.1,4.6,21
+peanuts,Protein,100g,600.9,49.9,8.1,0,415,20.8,8.1,5,24.1
+walnuts,Protein,100g,664.8,64.5,5.9,0,2,13.6,6.9,2.4,15.2
+pumpkin seeds,Protein,100g,436,19.5,3.7,0,17,53.5,18.3,0,18.6
+cottage cheese,Protein,100g,98.3,4.3,1.7,16,370,3.4,0,2.7,11.2
+whey protein,Protein,100g,351,1.6,0.8,16,157,6.3,3.1,0,77.5
+turkey breast,Protein,100g,147,2.1,0.6,80,97,0,0,0,30.1
+beef,Protein,100g,291.9,19.7,7.8,87,63,0,0,0,26.6
+pork loin,Protein,100g,193.6,8.7,2.8,81,46,0,0,0,26.5
+duck breast,Protein,100g,207.5,10.9,3,135,85,0,0,0,24.5
+hummus,Protein,100g,163.5,9.7,1.4,0,380,14.6,6,0,7.9
+edamame,Protein,100g,120.8,5.2,0.6,0,5,8.8,5.2,2.2,11.9
+tempeh,Protein,100g,196.8,11.5,3.4,0,14,7.7,0,0,19.7
+scallops,Protein,100g,110.3,0.9,0.2,40,660,5.4,0,0,20.5
+shrimp,Protein,100g,119,1.8,0.6,212,944,1.6,0,0,22.6
+sardines,Protein,100g,208.1,11.4,1.5,143,309,0,0,0,24.4
+crab,Protein,100g,80.9,0.7,0.2,95,400,0,0,0,17.8
+greek yogurt,Protein,100g,60.7,0.4,0.1,5,36,3.6,0,3.2,10.2
+seitan,Protein,100g,129.3,0.6,0.1,0,12,5.2,0.3,0,25
+bacon,Protein,100g,466.4,34.9,12,98,1674,1.7,0,0,34
+string cheese,Protein,100g,296.6,22.3,13.2,79,632,2.2,0,1,22.3
+hard boiled eggs,Protein,100g,152.7,10.6,3.3,370,122,1.1,0,1.1,12.6
+fish,Protein,100g,129.2,2.7,0.9,56,57,0,0,0,26
+egg whites,Protein,100g,52.9,0.2,0,0,165,0.7,0,0.7,10.9
+pistachios,Protein,100g,584,44.9,5.7,0,432,27.2,10,7.1,21.5
+sunflower seeds,Protein,100g,554.7,50.7,5.2,0,5910,15.5,8.8,2.7,19.4
+carrot,Vegetable,100g,34,0.2,0,0,57,8.3,3,3.4,0.8
+broccoli,Vegetable,100g,35,0.4,0.1,0,41,7.3,3.3,1.4,2.4
+spinach,Vegetable,100g,23.3,0.3,0,0,69,3.8,2.4,0.4,2.9
+potato,Vegetable,100g,92.7,0.1,0,0,10,21,2.2,1.2,2.5
+tomato,Vegetable,100g,18.2,0.2,0,0,4,3.9,1.2,2.6,0.9
+onion,Vegetable,100g,44.7,0.2,0,0,2,10.1,1.4,4.7,1.4
+cucumber,Vegetable,100g,15.3,0.1,0,0,1,3.7,0.5,1.7,0.6
+bell pepper,Vegetable,100g,27.6,0.2,0,0,2,6.8,1.2,3.2,0.9
+garlic,Vegetable,100g,144.8,0.7,0,0,16,32.5,2,1,6.4
+cauliflower,Vegetable,100g,22.4,0.5,0.1,0,14,4.1,2.3,2.1,1.8
+zucchini,Vegetable,100g,15.4,0.4,0.1,0,2,2.7,1,1.7,1.1
+eggplant,Vegetable,100g,34.7,0.2,0,0,0,8.7,2.5,3.2,0.8
+asparagus,Vegetable,100g,21.4,0.2,0.1,0,14,4.2,2,1.3,2.4
+lettuce,Vegetable,100g,17,0.3,0,0,7,3.3,2.1,1.2,1.2
+cabbage,Vegetable,100g,23.4,0.1,0,0,7,5.5,1.9,2.8,1.3
+celery,Vegetable,100g,17.9,0.2,0.1,0,91,4,1.6,2.4,0.8
+kale,Vegetable,100g,27.2,0.4,0.1,0,23,5.6,2,1.3,1.9
+beet,Vegetable,100g,43.1,0.2,0,0,76,10.1,2,7.9,1.7
+radish,Vegetable,100g,15.5,0,0,0,39,3.3,1.6,1.8,0.7
+pumpkin,Vegetable,100g,20.5,0.1,0,0,0,4.9,1.1,2.1,0.7
+sweet potato,Vegetable,100g,77.5,0.1,0,0,26,17.5,2.5,5.8,1.4
+brussels sprouts,Vegetable,100g,36.6,0.5,0.1,0,20,7.1,2.6,1.7,2.6
+green bean,Vegetable,100g,35,0.3,0.1,0,0,7.9,3.2,3.6,1.9
+pea,Vegetable,100g,85.1,0.2,0,0,3,15.5,5.6,5.9,5.4
+artichoke,Vegetable,100g,53.7,0.3,0.1,0,60,11.7,5.7,1,2.9
+fennel,Vegetable,100g,30.7,0.2,0.1,0,51,7.3,3.1,3.9,1.2
+bok choy,Vegetable,100g,12.3,0.2,0,0,34,1.8,1,0.8,1.6
+turnip,Vegetable,100g,21.5,0.1,0,0,16,5,2,3,0.7
+arugula,Vegetable,100g,25.5,0.7,0.1,0,26,3.7,1.6,2.1,2.6
+watercress,Vegetable,100g,11,0.1,0,0,40,1.3,0.5,0.2,2.3
+swiss chard,Vegetable,100g,20,0.1,0,0,181,4.2,2.1,1.1,1.9
+mushroom,Vegetable,100g,28,0.5,0.1,0,1,5.3,2.1,2.3,2.1
+parsnip,Vegetable,100g,72.5,0.3,0.1,0,10,17.1,3.6,4.8,1.3
+butternut squash,Vegetable,100g,40.8,0.1,0,0,3,10.3,3.2,2,0.9
+red onion,Vegetable,100g,43.7,0.2,0,0,3,10.1,1.4,4.7,1.4
+scallion,Vegetable,100g,32,0.2,0,0,16,7.3,2.6,2.3,1.8
+snap pea,Vegetable,100g,42,0.4,0,0,3,6.9,2.7,3.8,3.4
+endive,Vegetable,100g,17.4,0.1,0,0,1,3.9,3.1,0,0.9
+romaine,Vegetable,100g,16.5,0.3,0,0,7,3.2,2.1,1.2,1.2
+daikon,Vegetable,100g,16.7,0.2,0.1,0,13,3.4,1.6,1.8,0.7
+chayote,Vegetable,100g,24.4,0.5,0,0,1,5,2.9,1.9,0.6
+napa cabbage,Vegetable,100g,11.8,0.2,0,0,11,2.2,0,0,1.1
+okra,Vegetable,100g,22.5,0.2,0,0,5,4.6,2.5,2.4,1.9
+horseradish,Vegetable,100g,48.3,0.6,0,0,420,11.1,3.3,8,1.2
